@@ -1,7 +1,7 @@
 {
 "name": "StakeLake LAKE",
 "ticker": "LAKE",
-"extended": "https://data.pooltool.io/md/4554ec01-d48c-426a-96a4-4417e1f87835",
+"extended": "https://raw.githubusercontent.com/stakelake/lakeMetaData/master/lake-meta-data_4-extended.json",
 "homepage": "https://stakelake.com/",
 "description": "Bare Metal | Enterprise Class HPE ProLiant servers | We aspire to contribute towards network decentralization, stability and adoption."
 }
